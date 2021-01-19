@@ -29,7 +29,7 @@ eureka.instance.metadataMap.env=env2
 eureka.instance.metadataMap.zone=zone2
 ```
 
-![image-20210119110459413](C:\Users\cosmos\AppData\Roaming\Typora\typora-user-images\image-20210119110459413.png)
+![image-20210119110459413](./image-20210119110459413.png)
 
 
 
